@@ -1,0 +1,25 @@
+{
+  "name": "l2insights-website",
+  "version": "1.0.0",
+  "description": "l2insights-landing-page",
+  "scripts": {
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justnoah/l2insights-website.git"
+  },
+  "author": "justnoah.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justnoah/l2insights-website/issues"
+  },
+  "homepage": "https://github.com/justnoah/l2insights-website#readme",
+  "dependencies": {
+    "gatsby": "^4.9.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
