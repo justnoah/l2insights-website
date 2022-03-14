@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Home = () => {
-  return <h1>Hello Gatsby!</h1>;
+  return <h1>L2 Insights</h1>;
 };
 
 export default Home;
